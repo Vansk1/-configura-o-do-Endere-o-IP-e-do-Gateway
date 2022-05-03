@@ -1,0 +1,1 @@
+# -configura-o-do-Endere-o-IP-e-do-Gateway
